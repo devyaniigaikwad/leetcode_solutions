@@ -10,11 +10,13 @@ A growing collection of my LeetCode solutions documenting my problem-solving jou
 | [0031-next-permutation](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,4 +29,12 @@ A growing collection of my LeetCode solutions documenting my problem-solving jou
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0118-pascals-triangle) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
