@@ -8,12 +8,18 @@ A growing collection of my LeetCode solutions documenting my problem-solving jou
 | ------- |
 | [0001-two-sum](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0031-next-permutation) |
+| [0128-longest-consecutive-sequence](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0031-next-permutation) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
