@@ -17,6 +17,7 @@ A growing collection of my LeetCode solutions documenting my problem-solving jou
 | [0001-two-sum](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,8 +34,13 @@ A growing collection of my LeetCode solutions documenting my problem-solving jou
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0229-majority-element-ii) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
