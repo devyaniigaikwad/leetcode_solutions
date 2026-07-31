@@ -11,6 +11,7 @@ A growing collection of my LeetCode solutions documenting my problem-solving jou
 | [0118-pascals-triangle](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0229-majority-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,4 +44,8 @@ A growing collection of my LeetCode solutions documenting my problem-solving jou
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/devyaniigaikwad/leetcode_solutions/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
